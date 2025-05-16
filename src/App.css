@@ -1,0 +1,25 @@
+.link {
+   border: 1px solid black;
+   background-color: #ffff00;
+   display: flex;
+   justify-content:center;
+   
+   
+}
+.link ul li{
+  list-style: none;
+  display: inline-flex;
+  margin: 20px;
+  color: tomato;
+  font-size: large;
+
+}
+
+.kl {
+  border: 1px solid black;
+  background-color: #ffff00;
+  display: flex;
+  justify-content:center;
+  
+  
+}
