@@ -9,7 +9,7 @@ export function Navbar()
           <ul>
            <Link to='/a'> <li> first</li></Link> 
            <Link to ='/b'><li>second</li></Link>
-           <Link to='/c'><li>Third</li></Link>
+           <Link to='/c'><li>3rd</li></Link>
           </ul>
         </div>
        
